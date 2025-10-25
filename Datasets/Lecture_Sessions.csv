@@ -1,0 +1,27 @@
+Session_ID,Assigned_Course,Session_Type,Assigned_Section,Qualified_Instructors
+LEC_CNC311_level3_AID,CNC311,LEC,level3_AID,Samir Ahmed
+LEC_AID312_level3_AID,AID312,LEC,level3_AID,Ahmed Bayumi
+LEC_CNC314_level3_AID,CNC314,LEC,level3_AID,Mohamed Issa
+LEC_AID311_level3_AID,AID311,LEC,level3_AID,Ahmed Anter
+LEC_CSC317_level3_AID,CSC317,LEC,level3_AID,Hataba
+LEC_ECE324_level3_AID,ECE324,LEC,level3_AID,Ahmed Abdel-Malk
+LEC_CNC312_level3_CNC,CNC312,LEC,level3_CNC,Reda Elbasiony
+LEC_CNC311_level3_CNC,CNC311,LEC,level3_CNC,Samir Ahmed
+LEC_AID312_level3_CNC,AID312,LEC,level3_CNC,Ahmed Bayumi
+LEC_CNC314_level3_CNC,CNC314,LEC,level3_CNC,Mohamed Issa
+LEC_CSC317_level3_CNC,CSC317,LEC,level3_CNC,Hataba
+LEC_ECE324_level3_CNC,ECE324,LEC,level3_CNC,Ahmed Abdel-Malk
+LEC_CNC311_level3_CSC,CNC311,LEC,level3_CSC,Samir Ahmed
+LEC_AID312_level3_CSC,AID312,LEC,level3_CSC,Ahmed Bayumi
+LEC_CNC314_level3_CSC,CNC314,LEC,level3_CSC,Mohamed Issa
+LEC_CSC317_level3_CSC,CSC317,LEC,level3_CSC,Hataba
+LEC_ECE324_level3_CSC,ECE324,LEC,level3_CSC,Ahmed Abdel-Malk
+LEC_CSC314_level3_CSC,CSC314,LEC,level3_CSC,Mustafa AlSayed
+LEC_CNC311_level3_BIF,CNC311,LEC,level3_BIF,Samir Ahmed
+LEC_AID312_level3_BIF,AID312,LEC,level3_BIF,Ahmed Bayumi
+LEC_CNC314_level3_BIF,CNC314,LEC,level3_BIF,Mohamed Issa
+LEC_CSC317_level3_BIF,CSC317,LEC,level3_BIF,Hataba
+LEC_ECE324_level3_BIF,ECE324,LEC,level3_BIF,Ahmed Abdel-Malk
+LEC_BIF311_level3_BIF,BIF311,LEC,level3_BIF,Eman Allam
+LEC_CSC315_level3_BIF,CSC315,LEC,level3_BIF,Mostafa Soliman
+

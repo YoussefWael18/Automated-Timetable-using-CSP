@@ -1,0 +1,25 @@
+InstructorID,Name,QualifiedCourses,Preference,QualifiedCourseCodes
+1,Adel Fathy,Physics 1,Any,PHY113
+2,Ahmed Abdel-Malk,Digital Signal Processing,Morning,ECE324
+3,Ahmed Allam,Digital Logic Design,Afternoon,ECE111
+3,Sameh Shreif,Digital Logic Design,Any,ECE111
+4,Ahmed Anter,"Networks and Web Programming, Mathematics of Data Science",No_Thursday,"CNC111,AID311"
+5,Ahmed Arafa,"Software Engineering, New Trends in Data Science, Data Security, Fundamentals of Cybersecurity",Morning,"CSC211,AID427,AID413,CNC411"
+6,Ahmed Bayumi,"Intelligent Systems, New Trends in AI, New Trends in Computer Science",Afternoon,"AID312,AID428,CSC415"
+7,Ahmed Madkour,Music and Technology,Any,LRA104
+8,Ahmed Zakaria,Probability and Statistics,Morning,MTH212
+9,Ayman Arafa,"Mathematics (1) (Calculus + Linear Algebra), Ordinary Differential Equations",No_Thursday,"MTH111,ACM215"
+10,Eman,Japanese Language (3),Any,LRA403
+11,Eman Allam,Human Biology,Morning,BIF311
+12,Hataba,"Computer Graphics and Visualization, IT Security and Risk Management, Software Security",Afternoon,"CSC317,CNC419,CSC412"
+13,Mahmoud Nasr,Natural Resources and Sustainability,Any,LRA306
+14,Maiko Sato,Japanese Language (1),Morning,LRA401
+15,Marghany Hassan,"Algorithms Analysis and Design, BIG Data Analytics & Visualization, Machine Learning, Algorithms in Bioinformatics",No_Thursday,"CSC114,AID411,AID321,BIF413"
+16,Mohamed Issa,"Database Systems, Advanced Data Mining, New Trends in Bioinformatics",Afternoon,"CNC314,AID417,BIF425"
+17,Mohamed Khames,"IT Infrastructure, Software Verification and Validation (V&V), Software Quality",Any,"BIF424,CSC411,CSC410"
+18,Mostafa Soliman,"Computer Organization, Seminar and Project-Based Learning on CSIT",Morning,"CSE214,CSC315"
+20,Mustafa AlSayed,"Software Modeling and Analysis, Network Design and Management, Software Security, Distributed Systems, Game Design & Development",Afternoon,"CSC314,CNC415,CSC412,CSC426,CSC414"
+21,Reda Elbasiony,"Fundamentals of Programming, Foundations of Information Systems",Any,"CSC111,CNC312"
+22,Sameh Shreif,"Structural Bioinformatics, Management and Design of Health Care Systems",Morning,"BIF411,BIF412"
+23,Samir Ahmed,"Computer Networks, Digital Forensics",No_Thursday,"CNC311,CNC413"
+24,Sherine Elmotasem,Japanese Culture,Afternoon,LRA101

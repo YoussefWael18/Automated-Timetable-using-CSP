@@ -1,0 +1,13 @@
+Courses,Course Code,Credits,Department,Type,Instructor(s)
+Database Systems,CNC314,3,CSIT,LEC/LAB,Mohamed Issa
+Intelligent Systems,AID312,3,CSIT,LEC/LAB,Ahmed Bayumi
+Computer Networks,CNC311,3,CSIT,LEC/LAB,Samir Ahmed
+Computer Graphics and Visualization,CSC317,3,CSIT,LEC/LAB,Hataba
+Digital Signal Processing,ECE324,3,CSIT,LEC/LAB,Ahmed Abdel-Malk
+Foundations of Information Systems,CNC312,3,CNC,LEC/LAB/TUT,Reda Elbasiony
+Mathematics of Data Science,AID311,3,AID,LEC/LAB/TUT,Ahmed Anter
+Software Modeling and Analysis,CSC314,3,CSC,LEC/LAB/TUT,Mustafa AlSayed
+Human Biology,BIF311,3,BIF,LEC/LAB/TUT,Eman Allam
+Seminar and Project-Based Learning on CSIT,CSC315,3,BIF,LEC/LAB,Mostafa Soliman
+
+
