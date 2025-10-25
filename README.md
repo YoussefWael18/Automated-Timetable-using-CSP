@@ -1,2 +1,1 @@
-# Automated-Timetable-using-CSP
-Automated Timetable using CSP
+# this project is still under editing 
